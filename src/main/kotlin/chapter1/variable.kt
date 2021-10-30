@@ -5,5 +5,6 @@ fun main(args : Array<String>) {
     val name = "Cormoran"
     x = x * 10
     print("x is $x.")
+    print("name is ${name}")
     //This is a comment
 }
